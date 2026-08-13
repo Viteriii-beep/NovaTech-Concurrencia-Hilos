@@ -1,0 +1,8 @@
+# Inventario inicial NovaTech - Datos minimos del escenario (pagina 2 del enunciado)
+# Formato: codigo,nombre,existencia_inicial
+codigo,nombre,existencia
+P001,Teclado mecanico,12
+P002,Mouse inalambrico,18
+P003,Audifonos USB,10
+P004,Camara web,8
+P005,Monitor de 24 pulgadas,6

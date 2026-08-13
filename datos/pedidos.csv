@@ -1,0 +1,28 @@
+# Pedidos NovaTech
+# Formato: id,cliente,productos     donde productos = CODIGO:CANTIDAD separados por |
+# Se cargan 23 pedidos: 20 VALIDOS (RF-01) + 3 MAL FORMADOS (CP-04).
+# Sin tildes a proposito: garantiza que las capturas de consola se lean bien en Windows.
+id,cliente,productos
+ORD-001,Ana Lopez,P001:2
+ORD-002,Mario Perez,P002:3
+ORD-003,Lucia Gomez,P003:2
+ORD-004,Carlos Ruiz,P005:4
+ORD-005,Elena Diaz,P005:3
+ORD-006,Jorge Mena,P005:2
+ORD-007,Sofia Ortiz,P001:1|P002:2
+ORD-008,Diego Rojas,P004:3
+ORD-009,Marta Solis,P004:4
+ORD-010,Pablo Leon,P004:2
+ORD-011,Rita Cano,P003:3
+ORD-012,Hugo Vela,P002:4
+ORD-013,Nadia Cruz,P001:3
+ORD-014,Ivan Pons,P003:20
+ORD-015,Karla Vives,P002:2|P004:1
+ORD-016,Oscar Tenas,P001:2
+ORD-017,Wendy Ical,P003:2
+ORD-018,Bruno Sic,P002:3
+ORD-019,Paola Chub,P001:4
+ORD-020,Tomas Xol,P002:2|P005:1
+ORD-021,Sara Mut,:5
+ORD-022,Luis Ajanel,P002:0
+ORD-023,Rosa Tzoc,P00X:abc

@@ -1,8 +1,6 @@
 # NovaTech — Procesamiento concurrente de pedidos con hilos
 
-Simulador de consola que procesa pedidos de una tienda de tecnología usando
-**hilos reales**, protegiendo el inventario compartido con mecanismos
-explícitos de sincronización.
+
 
 **Sistemas Operativos — Tarea práctica de concurrencia**
 

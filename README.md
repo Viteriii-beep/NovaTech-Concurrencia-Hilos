@@ -2,7 +2,7 @@
 
 
 
-**Sistemas Operativos — Tarea práctica de concurrencia**
+** Vieri Alexander Sistemas Operativos I **
 
 ---
 
